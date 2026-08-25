@@ -3,7 +3,7 @@
 ## Запуск инфраструктуры
 
 ```bash
-docker compose -d --build
+docker compose up -d --build
 ```
 
 ## Запуск теста
